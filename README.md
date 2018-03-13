@@ -1,7 +1,7 @@
 # Tablas de Elecciones Colombianas 2018
 
-* [Senado](senado/) (por municipio)
-* [Cámara](camara/) (por municipio)
+* [Senado](senado/) (csv (gzipped) a nivel municipal)
+* [Cámara](camara/) (csv a nivel municipal)
 
 Tal vez más adelante las tablas de las dos consultas pre-presidenciales.
 
