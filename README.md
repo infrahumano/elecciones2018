@@ -10,4 +10,4 @@ Y también el código para bajarse todo eso.
 Los datos vienen del [preconteo de la
 registraduría](https://resultados2018.registraduria.gov.co/inicio.htm). 
 
-Reclamos y jugo de corozo: [@infrahumano](http://twitter.com/infrahumano)
+Donaciones de jugo de corozo: [@infrahumano](http://twitter.com/infrahumano)
