@@ -21,6 +21,4 @@ registraduría](https://resultados2018.registraduria.gov.co/inicio.htm).
 
 Los scripts para bajarse y tablear los datos [están acá](scripts/).
 
-De pronto más luego hago unas tablas de participación.
-
 Donaciones de jugo de corozo: [@infrahumano](http://twitter.com/infrahumano)
