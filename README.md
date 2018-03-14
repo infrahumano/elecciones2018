@@ -4,11 +4,11 @@ Los archivos son CSV comprimidos (con `gzip`):
 
 * [Senado](senado/) 
 * [Cámara](camara/) 
-* [Consulta Petro versus Caicedo](consulta_inclusion_social_por_la_paz/)
-* [Consulta Duque versos Ramírez vesus Ordóñez](gran_consulta_por_colombia/)
+* [Consulta Petro versus Caicedo](consulta_inclusion_social_por_la_paz/) (dizque "Consulta Inclusión Social por la Paz")
+* [Consulta Duque versus Ramírez vesus Ordóñez](gran_consulta_por_colombia/) (dizque "Gran Consulta por Colombia")
 
 Los datos vienen del [preconteo de la
-registraduría](https://resultados2018.registraduria.gov.co/inicio.htm).
+registraduría](https://resultados2018.registraduria.gov.co/inicio.htm). 
 
 Los scripts para bajarse y tablear los datos [están acá](scripts/).
 
