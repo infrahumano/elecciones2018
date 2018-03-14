@@ -21,4 +21,10 @@ registraduría](https://resultados2018.registraduria.gov.co/inicio.htm).
 
 Los scripts para bajarse y tablear los datos [están acá](scripts/).
 
+Si quiere ponerle códigos del Dane a las tablas,
+[aquí](https://github.com/nelsonamayad/Elecciones-presidenciales-2018/blob/master/Elecciones%202018/traductor_infrahumano.csv)
+Nelson Amaya armó una tablita para conviertir cada combinación de `municipio`
+y `departamento` en su respectivo código. Por supuesto, descontando los
+consultados. 
+
 Donaciones de jugo de corozo: [@infrahumano](http://twitter.com/infrahumano)
