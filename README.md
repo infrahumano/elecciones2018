@@ -17,6 +17,7 @@ Los archivos son CSV comprimidos (con `gzip`):
 * [Participación](participacion/) (cuentas de votos válidos e inválidos por votación y municipio) 
 * [Primera vuelta presidencial](primera_vuelta_presidencial/) 
 * [Segunda vuelta presidencial](segunda_vuelta_presidencial/)
+* [Consulta Anticorrupción](consulta_anticorrupcion/)
 
 Los scripts para bajarse y tablear los datos [están acá](scripts/).
 
