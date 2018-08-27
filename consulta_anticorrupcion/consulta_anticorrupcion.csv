@@ -1,4 +1,4 @@
-dane,codigo,municipio,departamento,pregunta_numero,potencial,validos,nulos,no_marcados,si,no,fraccion_validos
+dane,codigo,municipio,departamento,pregunta_numero,potencial,validos,nulos,no_marcados,si,no,fraccion_potencial
 91263,60010,El Encanto,Amazonas,1,776,95,0,1,93,2,0.12371134020618557
 91263,60010,El Encanto,Amazonas,2,776,95,0,1,92,3,0.12371134020618557
 91263,60010,El Encanto,Amazonas,3,776,95,0,1,93,2,0.12371134020618557
